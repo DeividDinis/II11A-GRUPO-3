@@ -1,0 +1,17 @@
+c:\users\guilherme\documents\visual studio 2015\Projects\1010\1010\bin\Debug\1010.exe.config
+c:\users\guilherme\documents\visual studio 2015\Projects\1010\1010\bin\Debug\1010.exe
+c:\users\guilherme\documents\visual studio 2015\Projects\1010\1010\bin\Debug\1010.pdb
+c:\users\guilherme\documents\visual studio 2015\Projects\1010\1010\obj\Debug\1010.csprojResolveAssemblyReference.cache
+c:\users\guilherme\documents\visual studio 2015\Projects\1010\1010\obj\Debug\_1010.Form1.resources
+c:\users\guilherme\documents\visual studio 2015\Projects\1010\1010\obj\Debug\_1010.Properties.Resources.resources
+c:\users\guilherme\documents\visual studio 2015\Projects\1010\1010\obj\Debug\1010.csproj.GenerateResource.Cache
+c:\users\guilherme\documents\visual studio 2015\Projects\1010\1010\obj\Debug\1010.exe
+c:\users\guilherme\documents\visual studio 2015\Projects\1010\1010\obj\Debug\1010.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TLPProjects\1010\1010\bin\Debug\1010.exe.config
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TLPProjects\1010\1010\obj\Debug\1010.exe
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TLPProjects\1010\1010\obj\Debug\1010.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TLPProjects\1010\1010\bin\Debug\1010.exe
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TLPProjects\1010\1010\bin\Debug\1010.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TLPProjects\1010\1010\obj\Debug\_1010.Form1.resources
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TLPProjects\1010\1010\obj\Debug\_1010.Properties.Resources.resources
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TLPProjects\1010\1010\obj\Debug\1010.csproj.GenerateResource.Cache
