@@ -1,0 +1,21 @@
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TLPProjects\WS2.0.1\WS2.0\bin\Debug\WS2.0.exe.config
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TLPProjects\WS2.0.1\WS2.0\bin\Debug\WS2.0.exe
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TLPProjects\WS2.0.1\WS2.0\bin\Debug\WS2.0.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TLPProjects\WS2.0.1\WS2.0\obj\Debug\WS2.0.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TLPProjects\WS2.0.1\WS2.0\obj\Debug\WS2._0.Form1.resources
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TLPProjects\WS2.0.1\WS2.0\obj\Debug\WS2._0.Properties.Resources.resources
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TLPProjects\WS2.0.1\WS2.0\obj\Debug\WS2.0.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TLPProjects\WS2.0.1\WS2.0\obj\Debug\WS2.0.exe
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TLPProjects\WS2.0.1\WS2.0\obj\Debug\WS2.0.pdb
+E:\Gui\WS2.0.1\WS2.0\bin\Debug\WS2.0.exe.config
+E:\Gui\WS2.0.1\WS2.0\obj\Debug\WS2.0.exe
+E:\Gui\WS2.0.1\WS2.0\obj\Debug\WS2.0.pdb
+G:\Gui\WS2.0.1\WS2.0\bin\Debug\WS2.0.exe.config
+G:\Gui\WS2.0.1\WS2.0\obj\Debug\WS2.0.exe
+G:\Gui\WS2.0.1\WS2.0\obj\Debug\WS2.0.pdb
+G:\Gui\WS2.0.1\WS2.0\bin\Debug\WS2.0.exe
+G:\Gui\WS2.0.1\WS2.0\bin\Debug\WS2.0.pdb
+G:\Gui\WS2.0.1\WS2.0\obj\Debug\WS2.0.csprojResolveAssemblyReference.cache
+G:\Gui\WS2.0.1\WS2.0\obj\Debug\WS2._0.Form1.resources
+G:\Gui\WS2.0.1\WS2.0\obj\Debug\WS2._0.Properties.Resources.resources
+G:\Gui\WS2.0.1\WS2.0\obj\Debug\WS2.0.csproj.GenerateResource.Cache
